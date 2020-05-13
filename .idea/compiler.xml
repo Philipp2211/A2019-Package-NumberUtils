@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/libs/command-processor-1.0.0-SNAPSHOT.jar" />
+        </processorPath>
+        <module name="NumberUtils.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="A2019DemoPackage.main" target="11" />
+      <module name="A2019DemoPackage.test" target="11" />
+      <module name="AzureCustomVision.main" target="11" />
+      <module name="AzureCustomVision.test" target="11" />
+      <module name="AzureVision.main" target="11" />
+      <module name="AzureVision.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

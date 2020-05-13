@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automationanywhere.commands.basic.SimpleActionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-10T14:10:50" hostname="EC2AMAZ-5L6MMDA" time="0.014">
+  <properties/>
+  <testcase name="myTest[0](bren, Oh hi there, bren)" classname="com.automationanywhere.commands.basic.SimpleActionTest" time="0.013"/>
+  <testcase name="myTest[1](linus, Oh hi there, linus)" classname="com.automationanywhere.commands.basic.SimpleActionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
